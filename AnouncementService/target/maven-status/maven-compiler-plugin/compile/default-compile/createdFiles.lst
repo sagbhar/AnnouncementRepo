@@ -1,0 +1,4 @@
+com/sagnik/demo/model/Announcement.class
+com/sagnik/demo/AnouncementServiceApplication.class
+com/sagnik/demo/repo/AnnouncementRepo.class
+com/sagnik/demo/controller/AnnouncementController.class
